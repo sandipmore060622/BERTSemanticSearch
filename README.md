@@ -28,7 +28,7 @@ The "BERT-Based Embeddings for Semantic Search" project aims to enhance the capa
 
 To install this project on windows, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/BERTSemanticSearch.git` on C drive
+1. Clone the repository: `git clone https://github.com/sandipmore060622/BERTSemanticSearch.git` on C drive
 
 
 2. Download `elasticsearch-8.10.3-windows-x86_64.zip` from 
