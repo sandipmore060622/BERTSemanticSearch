@@ -28,16 +28,21 @@ To install this project on windows, follow these steps:
 
 
 ![My Image](creds.jpg)
-7. 
 
-Run the installation script: `.\install.bat`
+7. Run : `pip install -r requirements.txt`
+ 
 
-## Usage
+8. Run : `python indexData.py`
 
-Here's how you can use this project:
 
-1. Run the main script: `.\run.bat`
-2. Open your web browser and go to `https://localhost:9200`
+9. Run : `python searchApp.py`
+
+
+10. Run : `streamlit run searchApp.py`
+
+
+
+11. Open your web browser and go to `http://localhost:8501/`
 
 ## License
 
